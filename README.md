@@ -3,6 +3,9 @@ Company : CodeTech IT solutions name : Dhiraj Raut Intern ID:CT04DG142 Domain:Re
 task : Movie Search app
 
 
+
+<img width="1838" height="830" alt="Image" src="https://github.com/user-attachments/assets/310d2f1a-c235-4c05-b73a-d538ac501880" />
+
 Description :
 🎬 Movie Search App – React.js Project
 This is a simple yet functional Movie Search App built using React.js that allows users to search for their favorite movies using the OMDb API (Open Movie Database). The app fetches real-time movie data based on user queries and displays information such as the title, release year, poster, and type (movie, series, etc.).
